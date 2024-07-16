@@ -9,3 +9,9 @@
 1) npm i
 
 2) npm run dev
+
+Учетная запись для входа:
+
+Email: aski@example.com
+
+Пароль: ilovehtml
